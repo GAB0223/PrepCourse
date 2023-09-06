@@ -1,2 +1,1 @@
-# PrepCourse
-reprositorio de prueba
+este proyecto es una prueba de la prueba
